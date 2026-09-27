@@ -1,0 +1,2 @@
+Enter a string (or 'END' to quit): Extracted IPv4 address: 192.168.1.1 (decimal value: 3232235777, port: none)
+Enter a string (or 'END' to quit): Program terminated.
